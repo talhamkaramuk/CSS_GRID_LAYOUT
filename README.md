@@ -11,3 +11,7 @@
 ## Holy Grail
 
 [View on codepen](https://codepen.io/talhamkaramuk/pen/YzaVwYq)
+
+## Masonry Layout
+
+[View on codepen](https://codepen.io/talhamkaramuk/pen/jOzmqvN)
