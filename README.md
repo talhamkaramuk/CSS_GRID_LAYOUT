@@ -19,3 +19,7 @@
 ## Full Width Layout
 
 [View on codepen](https://codepen.io/talhamkaramuk/pen/mdxmQjZ)
+
+## 12 Col Grid
+
+[View on codepen](https://codepen.io/talhamkaramuk/pen/mdxmvyw)
