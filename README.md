@@ -15,3 +15,7 @@
 ## Masonry Layout
 
 [View on codepen](https://codepen.io/talhamkaramuk/pen/jOzmqvN)
+
+## Full Width Layout
+
+[View on codepen](https://codepen.io/talhamkaramuk/pen/mdxmQjZ)
